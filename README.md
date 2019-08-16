@@ -34,7 +34,7 @@ M_nr    10
 
 ![lstm](image/lstm.png)
 
-## LSTM_NER
+## LSTM_CRF
 
 ![lstm_crf](image/lstm_crf.png)
 
