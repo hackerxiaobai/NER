@@ -1,5 +1,6 @@
 # NER
 ## pytorch版的命名实体识别，LSTM 和 LSTM_CRF 结果对比
+## pytorch 官方CRF只能一条一条的样本进行解码，太慢了，该repo使用了基于AllenNLP实现的CRF包，速度可以保证。
 
 ## 数据集
 > 人民日报中文数据集，data目录下，人名、地名、机构名三种实体的识别，TAG如下：
